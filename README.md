@@ -40,7 +40,7 @@ This project was created following the **[JavaScript Mastery](https://www.jsmast
 
 ## 🌐 Live Demo
 
-A live version of this project is available here.
+A live version of this project is available **[here](https://award-winning-website-zeta.vercel.app/)**.
 
 ---
 
